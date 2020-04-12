@@ -1,8 +1,32 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `About Project`
+
+Description
+
+Build a simple app with the React Framework to hit the NY Times Most Popular Articles API and show a list of articles, that shows details when items on the list are tapped (a typical master/detail app). We'll be using the most viewed section of this API.
+
+### `https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=J3EY7AqMFTRjthAQy5gnzJNUYzwArZVp`
+
+
+To test this API, you can use all-sections for the section path component in the URL above
+
+and 7 for period (available period values are 1, 7 and 30, which represents how far back, in
+
+days, the API returns results for period 7).
+
+### `https://api.nytimes.com/svc/mostpopular/v2/viewed/7.json?api-key=J3EY7AqMFTRjthAQy5gnzJNUYzwArZVp`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+Downnload the project or fork my branch [Abhinav Adepu Xebia NY Times Code](https://github.com/AbhinavAdepu/NYTimes_Task_Xebia).
+
+### `npm install`
+
+Install all required Node modules.
 
 ### `npm start`
 
