@@ -24,6 +24,36 @@ In the project directory, you can run:
 
 Downnload the zip project or fork my branch [Abhinav Adepu Xebia NY Times Code](https://github.com/AbhinavAdepu/NYTimes_Task_Xebia).
 
+### `Step:1`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture1.JPG)
+### `Step:2`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture2.png)
+### `Step:3`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture3.png)
+### `Step:4`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture4.png)
+### `Step:5`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture5.png)
+### `Step:6`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture6.png)
+### `Step:7`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture7.JPG)
+### `Step:8`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture8.png)
+### `Step:9`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture9.JPG)
+### `Step:10`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture10.JPG)
+### `Step:11`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/Capture11.JPG)
+### `Step:12`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/Capture12.JPG)
+### `Step:13`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/Capture13.JPG)
+### `Step:14`
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/Capture14.JPG)
+
+
 Step 1: Extract the Folder you downloaded,
 
 step 2: Go to Folder where you can find your source code..
