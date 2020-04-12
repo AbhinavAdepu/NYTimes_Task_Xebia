@@ -37,9 +37,9 @@ Downnload the zip project or fork my branch [Abhinav Adepu Xebia NY Times Code](
 ### `Step:6`
 ![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture6.png)
 ### `Step:7`
-![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture7.JPG)
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture7.JPG)
 ### `Step:8`
-![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture8.png)
+![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/capture8.png)
 ### `Step:9`
 ![Alt text](https://github.com/AbhinavAdepu/NYTIMES_CODE/blob/master/src/Capture9.JPG)
 ### `Step:10`
