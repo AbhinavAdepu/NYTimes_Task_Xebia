@@ -22,7 +22,17 @@ days, the API returns results for period 7).
 
 In the project directory, you can run:
 
-Downnload the project or fork my branch [Abhinav Adepu Xebia NY Times Code](https://github.com/AbhinavAdepu/NYTimes_Task_Xebia).
+Downnload the zip project or fork my branch [Abhinav Adepu Xebia NY Times Code](https://github.com/AbhinavAdepu/NYTimes_Task_Xebia).
+
+Step 1: Extract the Folder you downloaded,
+
+step 2: Go to Folder where you can find your source code..
+
+Step 3 : Open cmd Terminal of that Location
+
+step 4: Enter ### `npm install`
+
+step 5: Enter ### `npm start` will start the app in a browser.
 
 ### `npm install`
 
