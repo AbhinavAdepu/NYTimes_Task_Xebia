@@ -33,6 +33,13 @@ body {
   height: 3em;
   box-shadow: 4px 4px 4px #c2c5c5;
   padding: 12px 0px;
+  position: fixed;
+  top: 0;
+}
+.result-section {
+  position: absolute;
+  top: 50px;
+  z-index: -1;
 }
 
 @keyframes App-logo-spin {
