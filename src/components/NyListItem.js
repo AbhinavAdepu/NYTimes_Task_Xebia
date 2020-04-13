@@ -6,10 +6,9 @@ import DetailNews from "./DetailNews";
 
 const NyListItem = props => {
   const { listArray } = props;
-  const [openDetails, setOpenDetails] = React.useState(true);
+  const [openDetails, setOpenDetails] = React.useState(false);
   const [itemDetail, setItemDetail] = React.useState(null);
-  const [showBlock, setShowBlock] = React.useState(false);
-  
+
   return (
     <React.Fragment>
       <ul class="list-group">
@@ -23,9 +22,8 @@ const NyListItem = props => {
                     onClick={() => {
                       setOpenDetails(true);
                       setItemDetail(item);
-                      setShowBlock(true);
                     }}
-                    style={{borderBottom: '1px solid #eee'}}
+                    style={{ borderBottom: "1px solid #eee" }}
                   >
                     <div class="rounded"></div>
                     <li class="list-group-item list-group-item-primary">
@@ -45,7 +43,7 @@ const NyListItem = props => {
                             : item.byline}
                         </div>
                         <div className="flex-design">
-                        <svg
+                          <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"
                             height="24"
@@ -76,19 +74,17 @@ const NyListItem = props => {
                       />
                     </svg>
                   </div>
-                  {
-                    <DetailNews
-                      setOpenDetails={setOpenDetails}
-                      style={{display: showBlock ? 'block' : 'none'}}
-                      openDetails={openDetails}
-                      itemDetail={itemDetail}
-                      showBlock={showBlock}
-                    />
-                  }
                 </>
               );
             })}
       </ul>
+      {openDetails && (
+        <DetailNews
+          setOpenDetails={setOpenDetails}
+          openDetails={openDetails}
+          itemDetail={itemDetail}
+        />
+      )}
     </React.Fragment>
   );
 };
